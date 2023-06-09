@@ -1,4 +1,4 @@
-# shop
+# front
 
 ## Project setup
 ```
